@@ -6,7 +6,7 @@ A minimalist, dark-mode logic tool to de-clutter thoughts, filter choice paralys
 **Clarity Mind** is a minimalist, logic-based tool designed in a "Dark IT Style" to help users move from choice paralysis to concrete action.
 
 ### 🚀 Live Demo
-[View Tool Online](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+[View Tool Online](https://irynahaponenko-dot.github.io/clarity-mind-tool/)
 
 ---
 
